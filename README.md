@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivansh Tiwari</h1>
-<h3 align="center">A Full-Stack Developer </h3>
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<h3 align="center"> Web Developer </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **MediCare+** — a telemedicine platform
-- 🌱 Learning **System Design & DevOps**
+- 🌱 Learning **Inegrating ML Models into Dev**
 - 💬 Ask me about **MERN Stack, Next.js, REST APIs**
 - 📫 Reach me at **shivans0018@gmail.com**
-- ⚡ Fun fact: I turn chai ☕ into code!
+
 
 ---
 
@@ -23,7 +21,7 @@
 | 🎬 **AI Moviela** | AI-powered movie & book recommendation hub | — |
 | 🎵 **Spotify Clone** | Music player UI with HTML & CSS | — |
 | 📹 **Video Tube** | YouTube-inspired video platform | — |
-| 🎟️ **Eventora** | MERN event booking with OTP verification | — | [Live](https://eventora-phi-ten.vercel.app/) | 
+| 🎟️ **Eventora** | MERN event booking with OTP verification | [Live](https://eventora-phi-ten.vercel.app/) |
 
 ---
 
@@ -49,6 +47,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivans-16&theme=tokyonight" width="60%" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivans0018@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivans-16)
 </p>
 
 ---
