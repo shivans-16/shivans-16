@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **MediCare+** — a telemedicine platform
 - 🌱 Learning **Inegrating ML Models into Dev**
-- 💬 Ask me about **MERN Stack, Next.js, REST APIs**
+- Ai Integration in Development
 - 📫 Reach me at **shivans0018@gmail.com**
 
 
