@@ -6,9 +6,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **MediCare+** — a telemedicine platform
-- 🌱 Learning **Inegrating ML Models into Dev**
-- Ai Integration in Development
-- 📫 Reach me at **shivans0018@gmail.com**
+- 🌱 Learning ** Backend Development **
+- 📫 Trying to Integrate AI features into Dev Projects
 
 
 ---
