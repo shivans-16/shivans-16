@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivansh Tiwari</h1>
-<h3 align="center"> Web Developer </h3>
+<h3 align="center"> AI and ML Enthusiast </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **MediCare+** — a telemedicine platform
+- 
 - 🌱 Learning ** Backend Development **
-- 📫 Trying to Integrate AI features into Dev Projects
+- 📫 AI & ML Enthusiast
 
 
 ---
