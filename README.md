@@ -18,8 +18,8 @@
 |---------|-------------|------|
 | 🏥 **MediCare+** | Doctor consultation platform with video calls & Razorpay | [Live](https://medi-care-app-jet.vercel.app) |
 | 🎬 **AI Moviela** | AI-powered movie & book recommendation hub | — |
-| 🎵 **Spotify Clone** | Music player UI with HTML & CSS | — |
-| 📹 **Video Tube** | YouTube-inspired video platform | — |
+| 🎵 **Vaarta-AI** | Customized ai chatbot , easy to embedd | [Live](https://varta-ai-bo-t.vercel.app/)|
+| 📹 **PortFolio** | Personal portfolio | [Live]() |
 | 🎟️ **Eventora** | MERN event booking with OTP verification | [Live](https://eventora-phi-ten.vercel.app/) |
 
 ---
