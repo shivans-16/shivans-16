@@ -17,7 +17,7 @@
 | Project | Description | Live |
 |---------|-------------|------|
 | 🏥 **MediCare+** | Doctor consultation platform with video calls & Razorpay | [Live](https://medi-care-app-jet.vercel.app) |
-| 🎬 **IntervieIQ.AI** | AI-powered interview platform  | [Live]([https://interviewiq-ai-client-pd3l.onrender.com/) |
+|  **IntervieIQ.AI** | AI-powered interview platform  | [Live]([https://interviewiq-ai-client-pd3l.onrender.com) |
 | 🎵 **Vaarta-AI** | Customized ai chatbot , easy to embedd | [Live](https://varta-ai-bo-t.vercel.app/)|
 | 📹 **PortFolio** | Personal portfolio | [Live](https://shivansh-portfolio-w.netlify.app/) |
 | 🎟️ **Eventora** | MERN event booking with OTP verification | [Live](https://eventora-phi-ten.vercel.app/) |
